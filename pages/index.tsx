@@ -1,8 +1,5 @@
 import {
-   GetServerSideProps,
-   GetServerSidePropsContext,
-   GetStaticProps,
-   GetStaticPropsContext,
+
    NextPage,
 } from 'next'
 import ServiceCard from '../components/ServiceCard'
